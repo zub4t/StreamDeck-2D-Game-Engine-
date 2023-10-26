@@ -16,12 +16,12 @@ Welcome to the StreamDeck 2D Game Engine repository! This engine is designed for
 - Collaborative Community Support
 
 ## Getting Started
-To get started, refer to our 'Getting Started' guide in the documentation section. It covers setup, basic concepts, and steps to create your first game.
+To get started, refer to our 'Getting Started' guide in the documentation section. It covers setup, basic concepts, and steps to create your first game for StreamDeck devices.
 
 ## Contribution
 Contributions are welcome! If you have ideas, bug reports, or enhancements, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under [specify license]. See the LICENSE file for details.
+See the LICENSE file for details.
 
 Join us in innovating 2D gaming on StreamDeck devices! 🎮🚀
