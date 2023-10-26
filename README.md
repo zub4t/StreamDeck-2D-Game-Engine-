@@ -1,4 +1,5 @@
 # StreamDeck 2D Game Engine
+![image](https://github.com/zub4t/StreamDeck-2D-Game-Engine-/assets/30879430/ccd52f7a-bea3-446f-88eb-9aa96ba49df8)
 
 ## Overview
 Welcome to the StreamDeck 2D Game Engine repository! This engine is designed for developers looking to create engaging 2D games specifically for StreamDeck devices. It offers intuitive design tools, seamless hardware integration, and extensive support to bring your game ideas to life.
